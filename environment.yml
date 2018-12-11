@@ -1,4 +1,4 @@
-name: xgboost-classifier
+name: classifier-rest-demo
 
 dependencies:
     - python=3.6
