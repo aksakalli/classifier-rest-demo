@@ -1,0 +1,17 @@
+# PyCharm
+*.idea
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+
+# Environment
+.eggs
+*.egg-info
+
+# OS-generated files
+.DS_Store
+
+# Temporary files
+.ipynb_checkpoints
+tmp/
+*.pkl
